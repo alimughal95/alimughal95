@@ -72,7 +72,7 @@ My work currently powers **50k+ real-time users** on a **health-tech platform ge
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimughal95&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali Hassan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimughal95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ali Hassan's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -81,21 +81,6 @@ My work currently powers **50k+ real-time users** on a **health-tech platform ge
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimughal95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alimughal95&theme=algolia&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 👁️ Profile Visits
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alimughal95&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
