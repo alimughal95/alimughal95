@@ -64,7 +64,7 @@ My work currently powers **50k+ real-time users** on a **health-tech platform ge
 
 ✅ Reduced backend response times by **50%**  
 ✅ Contributed to product revenue growth of **$2.5M+ (2025)**  
-✅ Delivered scalable full-stack systems across healthcare and SaaS  
+✅ Delivered scalable full-stack systems across healthcare & SaaS  
 ✅ Integrated data pipelines and analytics on **Snowflake**  
 
 ---
@@ -72,16 +72,17 @@ My work currently powers **50k+ real-time users** on a **health-tech platform ge
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimughal95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ali Hassan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimughal95&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Ali Hassan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alimughal95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alimughal95&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimughal95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimughal95&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </p>
+
 
 ---
 
