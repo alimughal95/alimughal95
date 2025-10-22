@@ -1,102 +1,112 @@
-# Hi there, I'm Ali Hassan 👋
+# 👋 Hi, I'm Ali Hassan  
 
-Welcome to my GitHub profile! I’m passionate about backend development, database optimization, and collaborating with amazing people to solve complex problems. Here’s more about me:
+🚀 **Full Stack Engineer (Backend Focused)** | Building Scalable Systems for Real-World Impact  
 
----
-
-## 🧑‍💻 About Me
-- 🔭 I’m currently working on backend systems and MongoDB aggregations.
-- 🌱 Learning advanced Node.js performance tuning.
-- ⚡ Fun fact: I enjoy tackling complex production issues with my team!
+I'm a **Software Engineer** with **5+ years of experience** specializing in **Node.js, TypeScript, and modern full-stack architectures**.  
+I love optimizing performance, crafting reliable APIs, and turning data into insights.  
+My work currently powers **50k+ real-time users** on a **health-tech platform generating $2.5M+ in annual revenue**.  
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 What I Do
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+💡 **Backend Engineering**
+- Build high-performance APIs with Node.js, Express, and TypeScript  
+- Optimize database queries and caching (reduced response time by **50%**)  
+- Architect secure authentication (JWT / OAuth 2) and scalable microservices  
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+⚙️ **Data Engineering**
+- Design Snowflake pipelines and dynamic tables for real-time analytics  
+- Integrate MongoDB, PostgreSQL, Redis, and data aggregation logic  
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+🌐 **Full Stack Development**
+- Develop React / Angular interfaces with seamless API integration  
+- Deliver production-grade deployments on AWS (Lambda, EC2, Amplify)  
 
 ---
 
-## 🏅 Badges
+## 🛠️ Tech Stack
 
-<!-- Replace with actual badge links or URLs -->
-![Achievements](https://img.shields.io/badge/Achievements-5-blueviolet)
-![Commit Streak](https://img.shields.io/badge/Commit%20Streak-100%2B-yellowgreen)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source%20Contributor-brightgreen)
-
-<!-- Add more badges from shields.io or any other provider -->
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimughal95&show_icons=true&theme=radical)
+**Languages:** JavaScript (ES6+), TypeScript, Python, SQL  
+**Backend:** Node.js, Express.js, REST APIs, Microservices  
+**Frontend:** React.js, Angular 2+, HTML5, CSS3  
+**Databases:** MongoDB, MySQL, PostgreSQL, Redis, Snowflake  
+**Cloud & DevOps:** AWS (Lambda, Amplify, EC2), Docker, GitHub Actions  
+**Other:** CI/CD, Agile (Scrum), Jest, Postman, Swagger  
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 🏗️ Featured Projects
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alimughal95&theme=dark&hide_border=true)
+### 🩺 [InnovaHealth](#)
+> *Real-time healthcare platform improving patient-care intelligence in the U.S.*
+
+- Powers **50k+ active users** with intelligent analytics and secure APIs  
+- Reduced API response time by **50%** through optimized caching and queries  
+- Built end-to-end architecture using **Node.js, Snowflake, and AWS**  
+
+### ⚽ [Premier11](#)
+> *Sports scoring and management platform*
+
+- Designed REST APIs with **Node.js + MongoDB** and front-end in **React**  
+- Improved query performance by **35%** via indexing and optimization  
+- Implemented JWT authentication and real-time event updates  
+
+### 💰 [HealthiWealthi](#)
+> *Crypto reward and wellness app*
+
+- Created transaction APIs and user dashboards using **Node.js + MySQL**  
+- Integrated **social login** (Google, Facebook) and crypto wallet tracking  
 
 ---
 
-## 📊 Top Languages
+## 📈 Highlights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alimughal95&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+✅ Reduced backend response times by **50%**  
+✅ Contributed to product revenue growth of **$2.5M+ (2025)**  
+✅ Delivered scalable full-stack systems across healthcare and SaaS  
+✅ Integrated data pipelines and analytics on **Snowflake**  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alimughal95&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali Hassan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alimughal95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimughal95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alimughal95&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alimughal95&theme=algolia&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 📊 Contribution Stats
-
-### 📝 Total Commits
-
-![GitHub Commits](https://badgen.net/github/commits/alimughal95/)
-
-### 🔄 Pull Requests
-
-![GitHub PRs](https://badgen.net/github/prs/alimughal95/)
-
-### 🧐 Code Reviews
-
-![GitHub Reviews](https://badgen.net/github/reviews/alimughal95/)
+## 👁️ Profile Visits
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alimughal95&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-## 🌍 Profile Views
+## 📫 Let's Connect
 
-![Profile Views](https://visitcount.itsvg.in/api?id=alimughal95&label=Profile%20Views&color=6a6a6a&icon=5&pretty=false)
-
----
-
-## 📫 Get in Touch
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
-- **Email**: [ali.hassan@example.com](mailto:ali.hassan@example.com)
+- 📍 Lahore, Pakistan  
+- 📧 [ali.mughal.1895@gmail.com](mailto:ali.mughal.1895@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alihassan95/)  
+- 🧑‍💻 [GitHub](https://github.com/alimughal95)
 
 ---
 
-## 📝 Latest Blog Posts
-- [Optimizing MongoDB Aggregations](https://dev.to/yourusername/post-title)
-- [Scaling Node.js Applications](https://medium.com/@yourusername/post-title)
+### ⚡ “Build systems that think, scale, and empower people.”
